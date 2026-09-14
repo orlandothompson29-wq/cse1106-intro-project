@@ -14,5 +14,5 @@ What I learned:
 In this lab, I learned how to force a merge between a local folder and a github repository, and how to properly push a folder from the local computer into a github repistory as well.
 
 Future Improvements:
-The code runs as intended so no future improvements needed.
+The code runs as intended so no improvements needed.
 
