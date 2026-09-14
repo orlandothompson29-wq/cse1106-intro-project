@@ -1,1 +1,1 @@
-# cse1106-intro-project
+The code is a simple program in c that prints "Hello world" onto the screen.
