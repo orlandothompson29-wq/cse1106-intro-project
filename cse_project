@@ -1,4 +1,9 @@
 #include
 int main(){
-printf("Hello world");
+printf("Hello world\n");
+printf("new and improved");
+
+
+
+
 return 0;}
